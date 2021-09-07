@@ -1,10 +1,13 @@
 # zwift-assessment
 zwift-assessment
-Prerequisits:
+Prerequisites:
 
 Chrome
 
 Java Runtime 8
+
+Note:
+this has been developed and tested on Windows 10
 
 To run:
 from base directory, run the following command:
